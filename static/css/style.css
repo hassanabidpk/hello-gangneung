@@ -1,0 +1,15 @@
+.demo-card-square.mdl-card {
+    width: 90%;
+    height: 500px;
+    margin: 20px;
+}
+
+.demo-card-square>.mdl-card__title {
+    color: #fff;
+    background-size: cover
+}
+
+body {
+    background: #fafafa;
+    position: relative;
+}
